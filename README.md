@@ -1,9 +1,9 @@
 # LFR
-Introduction
+# Introduction
 
 The Line Follower Robot is an autonomous vehicle that follows a predefined path using sensors to detect and follow a line. It is widely used in industrial automation, warehouse management, and robotic competitions.
 
-Features
+# Features
 
 Uses IR sensors to detect the path.
 
@@ -15,7 +15,7 @@ Adjustable speed and sensitivity.
 
 Obstacle detection and avoidance (optional feature).
 
-Components Used
+# Components Used
 
 Microcontroller: Arduino Uno / Raspberry Pi / ESP32
 
@@ -29,7 +29,7 @@ Chassis: Robot frame with wheels
 
 Other Components: Resistors, LEDs, jumper wires, and PCB board
 
-Working Principle
+# Working Principle
 
 The IR sensors detect the black line on a white surface (or vice versa) by measuring light reflection.
 
@@ -39,7 +39,7 @@ The motor driver controls the movement of the motors accordingly to keep the rob
 
 If the robot deviates, it adjusts its speed to correct the course.
 
-Installation & Setup
+# Installation & Setup
 
 Assemble the robot chassis and attach all components.
 
@@ -85,5 +85,5 @@ Feel free to contribute by reporting issues, submitting pull requests, or improv
 
 Contact
 
-For any questions or collaboration, reach out via [your email/contact info].
+For any questions or collaboration, reach out via [avijitchakroborty84@gmail.com].
 
