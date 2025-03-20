@@ -51,11 +51,11 @@ Calibrate the sensor sensitivity if needed.
 
 Place the robot on the track and test the movement.
 
-Code
+# Code
 
 The control logic is written in Arduino C/Python. Below is a basic snippet for Arduino:
 
-Applications
+# Applications
 
 Automated guided vehicles (AGVs)
 
@@ -75,15 +75,15 @@ Implementing obstacle detection.
 
 Using computer vision instead of IR sensors.
 
-License
+# License
 
 This project is open-source and licensed under the MIT License.
 
-Contributing
+# Contributing
 
 Feel free to contribute by reporting issues, submitting pull requests, or improving the documentation.
 
-Contact
+# Contact
 
 For any questions or collaboration, reach out via [avijitchakroborty84@gmail.com].
 
